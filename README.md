@@ -6,15 +6,18 @@ d-money is a demo financial related project where fake money can be transferred.
 
 
 ## Tools & Technology used:
-- Apache jmeter
+
+•	Apache JMeter
 
 ## Pre-Requisites
--jdk
-
+•	jdk
 
 ## How to run this project:
 
 •	Clone this project
+
 •	put the jmx file the bin folder of the jmeter installation path
+
 •	open cmd and hit the following command jmeter
+
 •	from jmeter open the file from the bin and hit the run button
