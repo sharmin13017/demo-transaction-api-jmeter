@@ -21,3 +21,9 @@ d-money is a demo financial related project where fake money can be transferred.
 •	open cmd and hit the following command jmeter
 
 •	from jmeter open the file from the bin and hit the run button
+
+
+## Test Report
+
+![Uploading image.png…]()
+
