@@ -2,8 +2,7 @@
 
 ## About this project:
 
-
-d-money is a demo financial related project where fake money can be transferred. In this project I have load testing the d-money api using jmeter. Here I have covered following tasks as login, create new user, search user, deposit money, withdraw money & payment.
+This is demo fintech related project, which can create customer and agent, system can deposit money to agent,agent can also deposit money to customer, customer can withdraw money by agent. In this project I have load testing the d-money api using jmeter. Finally i have created a HTML report with JMX and CSV file using GUI.
 
 
 ## Tools & Technology used:
